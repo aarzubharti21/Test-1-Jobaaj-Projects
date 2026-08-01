@@ -148,12 +148,19 @@ The dashboard summarizes business performance using executive KPI cards.
 Key indicators include:
 
 **Total Orders** -   Represents the total number of customer orders processed.
+
 **Total Revenue** -    Displays the overall revenue generated from completed transactions.
+
 **Average Order Value** -   Measures the average revenue generated per customer order.
+
 **Total Quantity Sold** -   Represents the total units sold.
+
 **Delivered Orders** -   Tracks successfully delivered customer orders.
+
 **Cancelled Orders** -    Measures cancelled transactions.
+
 **Pending Orders** -    Shows orders currently under processing.
+
 **Average Quantity per Order** -   Evaluates customer purchasing behavior.
 
 # Dashboard Features
@@ -188,7 +195,7 @@ Date
 
 Visualizations automatically update based on slicer selections.
 
-4. Pivot Tables
+4.Pivot Tables
    
 Provide summarized business reports across multiple dimensions.
 
@@ -268,7 +275,7 @@ Which products generate the highest sales?
 
 What is the average order value?
 
-Customer Insights
+## Customer Insights
 
 Which cities generate the highest sales?
 
@@ -276,19 +283,19 @@ Which customer segment performs better?
 
 What are the cancellation trends?
 
-# Logistics
+## Logistics
 
 Which fulfillment method performs better?
 
 How can delivery efficiency be improved?
 
-# Product Management
+## Product Management
 
 Which products have the highest demand?
 
 Which categories require inventory optimization?
 
-# Customer Satisfaction
+## Customer Satisfaction
 
 Which products experience the highest return rates?
 
@@ -368,7 +375,6 @@ Applying business intelligence concepts to e-commerce data.
 Presenting business insights through interactive visualizations.
 
 # Conclusion
-
 The Amazon E-Commerce Sales Performance Dashboard demonstrates how Microsoft Excel can be used to transform high-volume transactional data into actionable business intelligence. By integrating financial performance, customer insights, logistics, inventory management, and customer satisfaction into a single interactive reporting solution, the dashboard enables business leaders to monitor key performance indicators and make informed strategic decisions. The project highlights practical skills in Excel dashboard development, data preparation, analytical reporting, and business storytelling while directly addressing the operational challenges and analytical objectives described in the project brief.
 
 ## AUTHOR
