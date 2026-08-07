@@ -36,17 +36,17 @@ A systematic data preparation and business intelligence workflow was implemented
 
 ## Dashboard
 
-The final deliverable consists of a highly interactive Looker Studio dashboard that enables users to analyze Amazon sales performance from multiple business perspectives.
+The final deliverable consists of a highly interactive Excel dashboard that enables users to analyze Amazon sales performance from multiple business perspectives.
 
-- **Sales Overview Dashboard:** Displays key performance indicators such as **Total Revenue**, **Total Orders**, **Total Quantity Sold**, **Average Order Value**, **Product Categories**, and Overall Business Performance.
+- **Sales Overview :** Displays key performance indicators such as **Total Revenue**, **Total Orders**, **Total Quantity Sold**, **Average Order Value**, **Product Categories**, and Overall Business Performance.
 
-- **Category Performance Dashboard:** Provides a comparison of product categories based on sales, quantity sold, and revenue contribution to identify the highest-performing product segments.
+- **Category Performance :** Provides a comparison of product categories based on sales, quantity sold, and revenue contribution to identify the highest-performing product segments.
 
-- **Regional Sales Dashboard:** Visualizes state-wise and city-wise sales performance, helping identify major revenue-generating locations and regional demand patterns.
+- **Regional Sales :** Visualizes state-wise and city-wise sales performance, helping identify major revenue-generating locations and regional demand patterns.
 
-- **Order Status Dashboard:** Monitors order lifecycle including delivered, cancelled, pending, shipped, and returned orders to evaluate operational efficiency.
+- **Order Status :** Monitors order lifecycle including delivered, cancelled, pending, shipped, and returned orders to evaluate operational efficiency.
 
-- **Fulfillment Dashboard:** Compares fulfillment methods and courier performance to identify opportunities for improving logistics and customer satisfaction.
+- **Fulfillment Methods:** Compares fulfillment methods and courier performance to identify opportunities for improving logistics and customer satisfaction.
 
 - **Time-Series Analysis:** Tracks sales trends over time, allowing users to identify seasonal demand, business growth, and monthly sales fluctuations.
 
